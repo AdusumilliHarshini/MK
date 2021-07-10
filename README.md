@@ -10,7 +10,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 ## Index
 <ul>
-<li><a href="#Alligation-of-Mixture">Alliagtion of Mixture</a></li>
+<li><a href="#Alligation-of-Mixture">Alligation of Mixture</a></li>
 <li><a href="#Bankers-Discount ">Bankers Discount </a></li>
 <li><a href="#Chain-Rule ">Chain Rule</a></li>
 <li><a href="#Decimal-Fractions "> Decimal Fractions</a></li>
@@ -28,7 +28,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#Hcf-and-Lcm-of-Numbers "> Hcf and Lcm of Numbers </a></li>
 <li><a href="#Operations-on-Numbers ">Operations on Numbers </a></li>
 <li><a href="#Permutations-and-Combinations "> Permutations and Combinations </a></li>
-<li><a href="#Problems-on-Numbers">Problems on Numbers</a></li>
+<li><a href="#Problems-on-Numbers">Problems on Numbers</a></li>gu
 <li><a href="#Races-and-Games-of-Skill "> Races and Games of Skill </a></li>
 <li><a href="#Simplification-sums "> Simplification Sums </a></li>
 <li><a href="#Time-and-Work "> Time and Work  </a></li>
@@ -47,7 +47,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#Probabilty-Sums ">  Probabilty Sums  </a></li>
 </ul>
 
-## Alliagtion of  Mixture
+## Alligation of  Mixture
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
 - [Google](https://www.google.com) : A search engine for anything you get stuck with.
